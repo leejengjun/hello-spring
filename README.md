@@ -4,6 +4,7 @@
 ==============================================
 스프링 부트 구축 환경
 ---------------------------
+
 Project: Gradle Project
 
 Spring Boot: 2.3.x
@@ -19,7 +20,9 @@ Project Metadata
 groupId: hello
 
 artifactId: hello-spring
+
 Dependencies: Spring Web, Thymeleaf
+
 ----------------------------
 
 
