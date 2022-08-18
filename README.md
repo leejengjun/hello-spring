@@ -23,6 +23,8 @@ artifactId: hello-spring
 
 Dependencies: Spring Web, Thymeleaf
 
+DB연동 : DB는 H2 DB를 활용
+
 ----------------------------
 
 
