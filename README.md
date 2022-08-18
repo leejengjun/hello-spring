@@ -19,7 +19,6 @@ Project Metadata
 groupId: hello
 
 artifactId: hello-spring
-
 Dependencies: Spring Web, Thymeleaf
 ----------------------------
 
