@@ -9,6 +9,7 @@ import javax.persistence.Id;
 public class Member {
 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
+    // 기본 키 매핑을 위한 어노테이션, strategy의 IDENTITY는 기본키로 설정한 id 값을 null로 하면 DB가 알아서 AUTO_INCREMENT 해줌.
     private Long id;
     private String name;
 
