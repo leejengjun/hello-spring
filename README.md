@@ -5,13 +5,21 @@
 스프링 부트 구축 환경
 ---------------------------
 Project: Gradle Project
+
 Spring Boot: 2.3.x
+
 Language: Java
+
 Packaging: Jar
+
 Java: 11
+
 Project Metadata
+
 groupId: hello
+
 artifactId: hello-spring
+
 Dependencies: Spring Web, Thymeleaf
 ----------------------------
 
